@@ -19,7 +19,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/<你的用户名>/wechat-content-review.git
+git clone https://github.com/otakuminami/wechat-content-review.git
 cd wechat-content-review
 ```
 
